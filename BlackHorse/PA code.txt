@@ -1,0 +1,15 @@
+<SCRIPT>
+<!--
+if (!navigator.appName ||
+    ((navigator.appName.indexOf ("Microsoft") >= 0) &&
+     (navigator.appVersion.charAt (navigator.appVersion.indexOf ("MSIE")
+      + 5) == "3")))
+    document.write ('<'+'A HREF="http://www.pa.press.net'+
+        '/popup/primetime/popup.html"><'+'IMG BORDER=0 SRC="http://'+
+        'www.pa.press.net/popup/catalogue/images/me-tv.gif" '+
+        'ALT="Launch Primetime TV"><'+'/A>');
+else document.write ('<'+'/SCRIPT><'+'SCRIPT LANGUAGE="JavaScript1.1" '+
+        'SRC="http://www.pa.press.net/popup/primetime/launch.js">'+
+        '<'+'/SCRIPT>');
+// -->
+</SCRIPT>
