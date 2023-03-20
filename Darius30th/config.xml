@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Darius Challenge Birthday"
+	textColor="rgba(255,204,0,1)"
+	thumbFrameColor="rgba(255,255,0,.5)"
+	imageFrameColor="rgba(255,204,0,1)"
+	buttonBarIconColor="rgba(255,204,0,1)"
+	buttonBarIconHoverColor="rgba(255,255,102,1)"
+	navButtonIconColor="rgba(255,204,0,1)"
+	navButtonIconHoverColor="rgba(255,255,51,1)"
+	navButtonBackColor="rgba(255,204,0,0.4)"
+	expandedBackgroundColor="rgba(255,255,102,1)"
+	shareFacebook="true"
+	shareTwitter="true"
+	backButtonPosition="TOP"
+
+>
+  <image imageURL="images/1.jpg"
+	thumbURL="thumbs/1.jpg"
+	linkURL="images/1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2.jpg"
+	thumbURL="thumbs/2.jpg"
+	linkURL="images/2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\2.jpg">
+    <title><![CDATA[Arrival]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3.jpg"
+	thumbURL="thumbs/3.jpg"
+	linkURL="images/3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4.jpg"
+	thumbURL="thumbs/4.jpg"
+	linkURL="images/4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\4.jpg">
+    <title><![CDATA[4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5.jpg"
+	thumbURL="thumbs/5.jpg"
+	linkURL="images/5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\5.jpg">
+    <title><![CDATA[Guess the Birth Weight]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6.jpg"
+	thumbURL="thumbs/6.jpg"
+	linkURL="images/6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/7.jpg"
+	thumbURL="thumbs/7.jpg"
+	linkURL="images/7.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\7.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8.jpg"
+	thumbURL="thumbs/8.jpg"
+	linkURL="images/8.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\8.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9.jpg"
+	thumbURL="thumbs/9.jpg"
+	linkURL="images/9.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\9.jpg">
+    <title><![CDATA[Hang Joel Out the Window]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10.jpg"
+	thumbURL="thumbs/10.jpg"
+	linkURL="images/10.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\10.jpg">
+    <title><![CDATA[Joel Pinnata]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.jpg"
+	thumbURL="thumbs/11.jpg"
+	linkURL="images/11.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\11.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12.jpg"
+	thumbURL="thumbs/12.jpg"
+	linkURL="images/12.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\12.jpg">
+    <title><![CDATA[Pogs Pokemon ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13.jpg"
+	thumbURL="thumbs/13.jpg"
+	linkURL="images/13.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\13.jpg">
+    <title><![CDATA[Who's that Pokemon]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14.jpg"
+	thumbURL="thumbs/14.jpg"
+	linkURL="images/14.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\14.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/15.jpg"
+	thumbURL="thumbs/15.jpg"
+	linkURL="images/15.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\15.jpg">
+    <title><![CDATA[The Virginator]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/16.jpg"
+	thumbURL="thumbs/16.jpg"
+	linkURL="images/16.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\16.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/17.jpg"
+	thumbURL="thumbs/17.jpg"
+	linkURL="images/17.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\17.jpg">
+    <title><![CDATA[Dutch Courgage]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/18.jpg"
+	thumbURL="thumbs/18.jpg"
+	linkURL="images/18.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\18.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/19.jpg"
+	thumbURL="thumbs/19.jpg"
+	linkURL="images/19.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\19.jpg">
+    <title><![CDATA[Corridor Olymics]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20.jpg"
+	thumbURL="thumbs/20.jpg"
+	linkURL="images/20.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\20.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/21.jpg"
+	thumbURL="thumbs/21.jpg"
+	linkURL="images/21.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\21.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/22.jpg"
+	thumbURL="thumbs/22.jpg"
+	linkURL="images/22.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\22.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/23.jpg"
+	thumbURL="thumbs/23.jpg"
+	linkURL="images/23.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\23.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/24.jpg"
+	thumbURL="thumbs/24.jpg"
+	linkURL="images/24.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\24.jpg">
+    <title><![CDATA[Psychological Riddle]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25.jpg"
+	thumbURL="thumbs/25.jpg"
+	linkURL="images/25.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\25.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/26.jpg"
+	thumbURL="thumbs/26.jpg"
+	linkURL="images/26.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\26.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/27.jpg"
+	thumbURL="thumbs/27.jpg"
+	linkURL="images/27.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\27.jpg">
+    <title><![CDATA[Harry Potter]]></title>
+    <caption><![CDATA[Tunel to the Castle Caves]]></caption>
+  </image>
+  <image imageURL="images/28.jpg"
+	thumbURL="thumbs/28.jpg"
+	linkURL="images/28.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\28.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/29.jpg"
+	thumbURL="thumbs/29.jpg"
+	linkURL="images/29.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\29.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/30.jpg"
+	thumbURL="thumbs/30.jpg"
+	linkURL="images/30.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\30.jpg">
+    <title><![CDATA[Harry Potter]]></title>
+    <caption><![CDATA[The Devil's Snare]]></caption>
+  </image>
+  <image imageURL="images/31.jpg"
+	thumbURL="thumbs/31.jpg"
+	linkURL="images/31.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\31.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/32.jpg"
+	thumbURL="thumbs/32.jpg"
+	linkURL="images/32.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\32.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/33.jpg"
+	thumbURL="thumbs/33.jpg"
+	linkURL="images/33.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\33.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/34.jpg"
+	thumbURL="thumbs/34.jpg"
+	linkURL="images/34.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\34.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/35.jpg"
+	thumbURL="thumbs/35.jpg"
+	linkURL="images/35.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\35.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/36.jpg"
+	thumbURL="thumbs/36.jpg"
+	linkURL="images/36.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\36.jpg">
+    <title><![CDATA[Harry Potter]]></title>
+    <caption><![CDATA[Chess Game]]></caption>
+  </image>
+  <image imageURL="images/37.jpg"
+	thumbURL="thumbs/37.jpg"
+	linkURL="images/37.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\37.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/38.jpg"
+	thumbURL="thumbs/38.jpg"
+	linkURL="images/38.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\38.jpg">
+    <title><![CDATA[Harry Potter]]></title>
+    <caption><![CDATA[Potions Challenge]]></caption>
+  </image>
+  <image imageURL="images/39.jpg"
+	thumbURL="thumbs/39.jpg"
+	linkURL="images/39.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\39.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/40.jpg"
+	thumbURL="thumbs/40.jpg"
+	linkURL="images/40.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\40.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/41.jpg"
+	thumbURL="thumbs/41.jpg"
+	linkURL="images/41.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\41.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/42.jpg"
+	thumbURL="thumbs/42.jpg"
+	linkURL="images/42.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\42.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/43.jpg"
+	thumbURL="thumbs/43.jpg"
+	linkURL="images/43.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\43.jpg">
+    <title><![CDATA[Pour an Exact Shot]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/44.jpg"
+	thumbURL="thumbs/44.jpg"
+	linkURL="images/44.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\44.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/45.jpg"
+	thumbURL="thumbs/45.jpg"
+	linkURL="images/45.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\45.jpg">
+    <title><![CDATA[Birthday Puzzel]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/46.jpg"
+	thumbURL="thumbs/46.jpg"
+	linkURL="images/46.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\46.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/47.jpg"
+	thumbURL="thumbs/47.jpg"
+	linkURL="images/47.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\47.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/48.jpg"
+	thumbURL="thumbs/48.jpg"
+	linkURL="images/48.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\48.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/49.jpg"
+	thumbURL="thumbs/49.jpg"
+	linkURL="images/49.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\49.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/50.jpg"
+	thumbURL="thumbs/50.jpg"
+	linkURL="images/50.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\50.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/51.jpg"
+	thumbURL="thumbs/51.jpg"
+	linkURL="images/51.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\51.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/52.jpg"
+	thumbURL="thumbs/52.jpg"
+	linkURL="images/52.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\52.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/53.jpg"
+	thumbURL="thumbs/53.jpg"
+	linkURL="images/53.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\53.jpg">
+    <title><![CDATA[Puzzel]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/54.jpg"
+	thumbURL="thumbs/54.jpg"
+	linkURL="images/54.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\54.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/55.jpg"
+	thumbURL="thumbs/55.jpg"
+	linkURL="images/55.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\55.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/56.jpg"
+	thumbURL="thumbs/56.jpg"
+	linkURL="images/56.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\56.jpg">
+    <title><![CDATA[Change a Nappy]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/57.jpg"
+	thumbURL="thumbs/57.jpg"
+	linkURL="images/57.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\57.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/58.jpg"
+	thumbURL="thumbs/58.jpg"
+	linkURL="images/58.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\58.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/59.jpg"
+	thumbURL="thumbs/59.jpg"
+	linkURL="images/59.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\59.jpg">
+    <title><![CDATA[Formula 1 Face Smash]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/60.jpg"
+	thumbURL="thumbs/60.jpg"
+	linkURL="images/60.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\60.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/61.jpg"
+	thumbURL="thumbs/61.jpg"
+	linkURL="images/61.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\61.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/61a.jpg"
+	thumbURL="thumbs/61a.jpg"
+	linkURL="images/61a.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\61a.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/62.jpg"
+	thumbURL="thumbs/62.jpg"
+	linkURL="images/62.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\62.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/63.jpg"
+	thumbURL="thumbs/63.jpg"
+	linkURL="images/63.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\63.jpg">
+    <title><![CDATA[The Cake]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/64.jpg"
+	thumbURL="thumbs/64.jpg"
+	linkURL="images/64.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\64.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/65.jpg"
+	thumbURL="thumbs/65.jpg"
+	linkURL="images/65.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\65.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/66.jpg"
+	thumbURL="thumbs/66.jpg"
+	linkURL="images/66.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\66.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/67.jpg"
+	thumbURL="thumbs/67.jpg"
+	linkURL="images/67.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\67.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/68.jpg"
+	thumbURL="thumbs/68.jpg"
+	linkURL="images/68.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\68.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/100.jpg"
+	thumbURL="thumbs/100.jpg"
+	linkURL="images/100.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\100.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/101.jpg"
+	thumbURL="thumbs/101.jpg"
+	linkURL="images/101.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\101.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/102.jpg"
+	thumbURL="thumbs/102.jpg"
+	linkURL="images/102.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\102.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/103.jpg"
+	thumbURL="thumbs/103.jpg"
+	linkURL="images/103.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\103.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/104.jpg"
+	thumbURL="thumbs/104.jpg"
+	linkURL="images/104.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius 30th\Publish\104.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
