@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,1)"
+	textColor="rgba(0,0,0,1)"
+	thumbFrameColor="rgba(255,255,0,.5)"
+	useThumbDots="true"
+	useFullscreenExpand="true"
+	usePassword="true"
+	imageTransitionType="CROSS_FADE"
+	backgroundUrl="djmw/backgnd.jpg"
+
+>
+  <image imageURL="images/DSCF0609.jpg"
+	thumbURL="thumbs/DSCF0609.jpg"
+	linkURL="images/DSCF0609.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0609.JPG">
+    <title><![CDATA[DSCF0609]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0610.jpg"
+	thumbURL="thumbs/DSCF0610.jpg"
+	linkURL="images/DSCF0610.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0610.JPG">
+    <title><![CDATA[DSCF0610]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0611.jpg"
+	thumbURL="thumbs/DSCF0611.jpg"
+	linkURL="images/DSCF0611.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0611.JPG">
+    <title><![CDATA[DSCF0611]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0612.jpg"
+	thumbURL="thumbs/DSCF0612.jpg"
+	linkURL="images/DSCF0612.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0612.JPG">
+    <title><![CDATA[DSCF0612]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0613.jpg"
+	thumbURL="thumbs/DSCF0613.jpg"
+	linkURL="images/DSCF0613.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0613.JPG">
+    <title><![CDATA[DSCF0613]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0614.jpg"
+	thumbURL="thumbs/DSCF0614.jpg"
+	linkURL="images/DSCF0614.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0614.JPG">
+    <title><![CDATA[DSCF0614]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0621.jpg"
+	thumbURL="thumbs/DSCF0621.jpg"
+	linkURL="images/DSCF0621.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0621.JPG">
+    <title><![CDATA[DSCF0621]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0622.jpg"
+	thumbURL="thumbs/DSCF0622.jpg"
+	linkURL="images/DSCF0622.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0622.JPG">
+    <title><![CDATA[DSCF0622]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0625.jpg"
+	thumbURL="thumbs/DSCF0625.jpg"
+	linkURL="images/DSCF0625.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0625.JPG">
+    <title><![CDATA[DSCF0625]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0583.jpg"
+	thumbURL="thumbs/DSCF0583.jpg"
+	linkURL="images/DSCF0583.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0583.JPG">
+    <title><![CDATA[DSCF0583]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0599.jpg"
+	thumbURL="thumbs/DSCF0599.jpg"
+	linkURL="images/DSCF0599.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0599.JPG">
+    <title><![CDATA[DSCF0599]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0601.jpg"
+	thumbURL="thumbs/DSCF0601.jpg"
+	linkURL="images/DSCF0601.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0601.JPG">
+    <title><![CDATA[DSCF0601]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0602.jpg"
+	thumbURL="thumbs/DSCF0602.jpg"
+	linkURL="images/DSCF0602.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0602.JPG">
+    <title><![CDATA[DSCF0602]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0603.jpg"
+	thumbURL="thumbs/DSCF0603.jpg"
+	linkURL="images/DSCF0603.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0603.JPG">
+    <title><![CDATA[DSCF0603]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0606.jpg"
+	thumbURL="thumbs/DSCF0606.jpg"
+	linkURL="images/DSCF0606.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0606.JPG">
+    <title><![CDATA[DSCF0606]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0607.jpg"
+	thumbURL="thumbs/DSCF0607.jpg"
+	linkURL="images/DSCF0607.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0607.JPG">
+    <title><![CDATA[DSCF0607]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF0608.jpg"
+	thumbURL="thumbs/DSCF0608.jpg"
+	linkURL="images/DSCF0608.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2023\Darius&amp;Jazz\temp\DSCF0608.JPG">
+    <title><![CDATA[DSCF0608]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
