@@ -7,9 +7,9 @@
 	thumbFrameColor="rgba(255,255,0,.5)"
 	useThumbDots="true"
 	useFullscreenExpand="true"
-	usePassword="true"
+	
 	imageTransitionType="CROSS_FADE"
-	backgroundUrl="djmw/backgnd.jpg"
+	backgroundUrl="backgnd.jpg"
 
 >
   <image imageURL="images/DSCF0609.jpg"
