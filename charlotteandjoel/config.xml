@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Charlotte &amp; Joel Wedding 30th June 2024"
+	textColor="rgba(51,204,255,1)"
+	shareTwitter="true"
+	sharePinterest="true"
+	shareFacebook="true"
+	galleryTitlePosition="ABOVE_THUMBS"
+	galleryTitleHAlign="CENTER"
+
+>
+  <image imageURL="images/Image2.jpg"
+	thumbURL="thumbs/Image2.jpg"
+	linkURL="images/Image2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image2.jpg">
+    <title><![CDATA[Image2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image3.jpg"
+	thumbURL="thumbs/Image3.jpg"
+	linkURL="images/Image3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image3.jpg">
+    <title><![CDATA[Image3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image4.jpg"
+	thumbURL="thumbs/Image4.jpg"
+	linkURL="images/Image4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image4.jpg">
+    <title><![CDATA[Image4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image5.jpg"
+	thumbURL="thumbs/Image5.jpg"
+	linkURL="images/Image5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image5.jpg">
+    <title><![CDATA[Image5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image6.jpg"
+	thumbURL="thumbs/Image6.jpg"
+	linkURL="images/Image6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image6.jpg">
+    <title><![CDATA[Image6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image7.jpg"
+	thumbURL="thumbs/Image7.jpg"
+	linkURL="images/Image7.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image7.jpg">
+    <title><![CDATA[Image7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image8.jpg"
+	thumbURL="thumbs/Image8.jpg"
+	linkURL="images/Image8.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image8.jpg">
+    <title><![CDATA[Image8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image9.jpg"
+	thumbURL="thumbs/Image9.jpg"
+	linkURL="images/Image9.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image9.jpg">
+    <title><![CDATA[Image9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image11.jpg"
+	thumbURL="thumbs/Image11.jpg"
+	linkURL="images/Image11.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image11.jpg">
+    <title><![CDATA[Image11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image12.jpg"
+	thumbURL="thumbs/Image12.jpg"
+	linkURL="images/Image12.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image12.jpg">
+    <title><![CDATA[Image12]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image15.jpg"
+	thumbURL="thumbs/Image15.jpg"
+	linkURL="images/Image15.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image15.jpg">
+    <title><![CDATA[Image15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image16.jpg"
+	thumbURL="thumbs/Image16.jpg"
+	linkURL="images/Image16.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image16.jpg">
+    <title><![CDATA[Image16]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image20.jpg"
+	thumbURL="thumbs/Image20.jpg"
+	linkURL="images/Image20.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image20.jpg">
+    <title><![CDATA[Image20]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image21.jpg"
+	thumbURL="thumbs/Image21.jpg"
+	linkURL="images/Image21.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image21.jpg">
+    <title><![CDATA[Image21]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image22.jpg"
+	thumbURL="thumbs/Image22.jpg"
+	linkURL="images/Image22.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image22.jpg">
+    <title><![CDATA[Image22]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image23.jpg"
+	thumbURL="thumbs/Image23.jpg"
+	linkURL="images/Image23.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image23.jpg">
+    <title><![CDATA[Image23]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image24.jpg"
+	thumbURL="thumbs/Image24.jpg"
+	linkURL="images/Image24.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image24.jpg">
+    <title><![CDATA[Image24]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image27.jpg"
+	thumbURL="thumbs/Image27.jpg"
+	linkURL="images/Image27.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image27.jpg">
+    <title><![CDATA[Image27]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image30.jpg"
+	thumbURL="thumbs/Image30.jpg"
+	linkURL="images/Image30.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image30.jpg">
+    <title><![CDATA[Image30]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image31.jpg"
+	thumbURL="thumbs/Image31.jpg"
+	linkURL="images/Image31.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image31.jpg">
+    <title><![CDATA[Image31]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image32.jpg"
+	thumbURL="thumbs/Image32.jpg"
+	linkURL="images/Image32.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image32.jpg">
+    <title><![CDATA[Image32]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image33.jpg"
+	thumbURL="thumbs/Image33.jpg"
+	linkURL="images/Image33.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image33.jpg">
+    <title><![CDATA[Image33]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image36.jpg"
+	thumbURL="thumbs/Image36.jpg"
+	linkURL="images/Image36.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image36.jpg">
+    <title><![CDATA[Image36]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image38.jpg"
+	thumbURL="thumbs/Image38.jpg"
+	linkURL="images/Image38.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image38.jpg">
+    <title><![CDATA[Image38]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image39.jpg"
+	thumbURL="thumbs/Image39.jpg"
+	linkURL="images/Image39.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image39.jpg">
+    <title><![CDATA[Image39]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image44.jpg"
+	thumbURL="thumbs/Image44.jpg"
+	linkURL="images/Image44.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image44.jpg">
+    <title><![CDATA[Image44]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image46.jpg"
+	thumbURL="thumbs/Image46.jpg"
+	linkURL="images/Image46.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image46.jpg">
+    <title><![CDATA[Image46]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image47.jpg"
+	thumbURL="thumbs/Image47.jpg"
+	linkURL="images/Image47.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image47.jpg">
+    <title><![CDATA[Image47]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image48.jpg"
+	thumbURL="thumbs/Image48.jpg"
+	linkURL="images/Image48.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image48.jpg">
+    <title><![CDATA[Image48]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image53.jpg"
+	thumbURL="thumbs/Image53.jpg"
+	linkURL="images/Image53.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image53.jpg">
+    <title><![CDATA[Image53]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image54.jpg"
+	thumbURL="thumbs/Image54.jpg"
+	linkURL="images/Image54.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image54.jpg">
+    <title><![CDATA[Image54]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image55.jpg"
+	thumbURL="thumbs/Image55.jpg"
+	linkURL="images/Image55.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image55.jpg">
+    <title><![CDATA[Image55]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image58.jpg"
+	thumbURL="thumbs/Image58.jpg"
+	linkURL="images/Image58.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image58.jpg">
+    <title><![CDATA[Image58]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image59.jpg"
+	thumbURL="thumbs/Image59.jpg"
+	linkURL="images/Image59.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image59.jpg">
+    <title><![CDATA[Image59]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image60.jpg"
+	thumbURL="thumbs/Image60.jpg"
+	linkURL="images/Image60.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image60.jpg">
+    <title><![CDATA[Image60]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image61.jpg"
+	thumbURL="thumbs/Image61.jpg"
+	linkURL="images/Image61.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image61.jpg">
+    <title><![CDATA[Image61]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image64.jpg"
+	thumbURL="thumbs/Image64.jpg"
+	linkURL="images/Image64.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image64.jpg">
+    <title><![CDATA[Image64]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image65.jpg"
+	thumbURL="thumbs/Image65.jpg"
+	linkURL="images/Image65.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image65.jpg">
+    <title><![CDATA[Image65]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image66.jpg"
+	thumbURL="thumbs/Image66.jpg"
+	linkURL="images/Image66.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image66.jpg">
+    <title><![CDATA[Image66]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image67.jpg"
+	thumbURL="thumbs/Image67.jpg"
+	linkURL="images/Image67.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image67.jpg">
+    <title><![CDATA[Image67]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image68.jpg"
+	thumbURL="thumbs/Image68.jpg"
+	linkURL="images/Image68.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image68.jpg">
+    <title><![CDATA[Image68]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image69.jpg"
+	thumbURL="thumbs/Image69.jpg"
+	linkURL="images/Image69.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image69.jpg">
+    <title><![CDATA[Image69]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image70.jpg"
+	thumbURL="thumbs/Image70.jpg"
+	linkURL="images/Image70.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image70.jpg">
+    <title><![CDATA[Image70]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image73.jpg"
+	thumbURL="thumbs/Image73.jpg"
+	linkURL="images/Image73.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image73.jpg">
+    <title><![CDATA[Image73]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image74.jpg"
+	thumbURL="thumbs/Image74.jpg"
+	linkURL="images/Image74.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image74.jpg">
+    <title><![CDATA[Image74]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image75.jpg"
+	thumbURL="thumbs/Image75.jpg"
+	linkURL="images/Image75.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image75.jpg">
+    <title><![CDATA[Image75]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image76.jpg"
+	thumbURL="thumbs/Image76.jpg"
+	linkURL="images/Image76.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image76.jpg">
+    <title><![CDATA[Image76]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image77.jpg"
+	thumbURL="thumbs/Image77.jpg"
+	linkURL="images/Image77.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image77.jpg">
+    <title><![CDATA[Image77]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image78.jpg"
+	thumbURL="thumbs/Image78.jpg"
+	linkURL="images/Image78.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image78.jpg">
+    <title><![CDATA[Image78]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image79.jpg"
+	thumbURL="thumbs/Image79.jpg"
+	linkURL="images/Image79.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image79.jpg">
+    <title><![CDATA[Image79]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image82.jpg"
+	thumbURL="thumbs/Image82.jpg"
+	linkURL="images/Image82.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image82.jpg">
+    <title><![CDATA[Image82]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image83.jpg"
+	thumbURL="thumbs/Image83.jpg"
+	linkURL="images/Image83.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image83.jpg">
+    <title><![CDATA[Image83]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image84.jpg"
+	thumbURL="thumbs/Image84.jpg"
+	linkURL="images/Image84.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image84.jpg">
+    <title><![CDATA[Image84]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image86.jpg"
+	thumbURL="thumbs/Image86.jpg"
+	linkURL="images/Image86.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image86.jpg">
+    <title><![CDATA[Image86]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image87.jpg"
+	thumbURL="thumbs/Image87.jpg"
+	linkURL="images/Image87.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image87.jpg">
+    <title><![CDATA[Image87]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image90.jpg"
+	thumbURL="thumbs/Image90.jpg"
+	linkURL="images/Image90.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image90.jpg">
+    <title><![CDATA[Image90]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image91.jpg"
+	thumbURL="thumbs/Image91.jpg"
+	linkURL="images/Image91.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image91.jpg">
+    <title><![CDATA[Image91]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image92.jpg"
+	thumbURL="thumbs/Image92.jpg"
+	linkURL="images/Image92.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image92.jpg">
+    <title><![CDATA[Image92]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image93.jpg"
+	thumbURL="thumbs/Image93.jpg"
+	linkURL="images/Image93.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image93.jpg">
+    <title><![CDATA[Image93]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image94.jpg"
+	thumbURL="thumbs/Image94.jpg"
+	linkURL="images/Image94.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image94.jpg">
+    <title><![CDATA[Image94]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image97.jpg"
+	thumbURL="thumbs/Image97.jpg"
+	linkURL="images/Image97.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image97.jpg">
+    <title><![CDATA[Image97]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image98.jpg"
+	thumbURL="thumbs/Image98.jpg"
+	linkURL="images/Image98.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image98.jpg">
+    <title><![CDATA[Image98]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image99.jpg"
+	thumbURL="thumbs/Image99.jpg"
+	linkURL="images/Image99.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image99.jpg">
+    <title><![CDATA[Image99]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image100.jpg"
+	thumbURL="thumbs/Image100.jpg"
+	linkURL="images/Image100.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image100.jpg">
+    <title><![CDATA[Image100]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image101.jpg"
+	thumbURL="thumbs/Image101.jpg"
+	linkURL="images/Image101.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image101.jpg">
+    <title><![CDATA[Image101]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image102.jpg"
+	thumbURL="thumbs/Image102.jpg"
+	linkURL="images/Image102.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image102.jpg">
+    <title><![CDATA[Image102]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image103.jpg"
+	thumbURL="thumbs/Image103.jpg"
+	linkURL="images/Image103.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image103.jpg">
+    <title><![CDATA[Image103]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image104.jpg"
+	thumbURL="thumbs/Image104.jpg"
+	linkURL="images/Image104.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image104.jpg">
+    <title><![CDATA[Image104]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image108.jpg"
+	thumbURL="thumbs/Image108.jpg"
+	linkURL="images/Image108.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image108.jpg">
+    <title><![CDATA[Image108]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image109.jpg"
+	thumbURL="thumbs/Image109.jpg"
+	linkURL="images/Image109.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image109.jpg">
+    <title><![CDATA[Image109]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image110.jpg"
+	thumbURL="thumbs/Image110.jpg"
+	linkURL="images/Image110.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image110.jpg">
+    <title><![CDATA[Image110]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image114.jpg"
+	thumbURL="thumbs/Image114.jpg"
+	linkURL="images/Image114.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image114.jpg">
+    <title><![CDATA[Image114]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image116.jpg"
+	thumbURL="thumbs/Image116.jpg"
+	linkURL="images/Image116.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image116.jpg">
+    <title><![CDATA[Image116]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image117.jpg"
+	thumbURL="thumbs/Image117.jpg"
+	linkURL="images/Image117.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image117.jpg">
+    <title><![CDATA[Image117]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image118.jpg"
+	thumbURL="thumbs/Image118.jpg"
+	linkURL="images/Image118.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image118.jpg">
+    <title><![CDATA[Image118]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image119.jpg"
+	thumbURL="thumbs/Image119.jpg"
+	linkURL="images/Image119.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image119.jpg">
+    <title><![CDATA[Image119]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image120.jpg"
+	thumbURL="thumbs/Image120.jpg"
+	linkURL="images/Image120.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image120.jpg">
+    <title><![CDATA[Image120]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image121.jpg"
+	thumbURL="thumbs/Image121.jpg"
+	linkURL="images/Image121.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image121.jpg">
+    <title><![CDATA[Image121]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image122.jpg"
+	thumbURL="thumbs/Image122.jpg"
+	linkURL="images/Image122.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image122.jpg">
+    <title><![CDATA[Image122]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image124.jpg"
+	thumbURL="thumbs/Image124.jpg"
+	linkURL="images/Image124.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image124.jpg">
+    <title><![CDATA[Image124]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image125.jpg"
+	thumbURL="thumbs/Image125.jpg"
+	linkURL="images/Image125.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image125.jpg">
+    <title><![CDATA[Image125]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image126.jpg"
+	thumbURL="thumbs/Image126.jpg"
+	linkURL="images/Image126.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image126.jpg">
+    <title><![CDATA[Image126]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image127.jpg"
+	thumbURL="thumbs/Image127.jpg"
+	linkURL="images/Image127.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image127.jpg">
+    <title><![CDATA[Image127]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image128.jpg"
+	thumbURL="thumbs/Image128.jpg"
+	linkURL="images/Image128.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image128.jpg">
+    <title><![CDATA[Image128]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image129.jpg"
+	thumbURL="thumbs/Image129.jpg"
+	linkURL="images/Image129.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image129.jpg">
+    <title><![CDATA[Image129]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image130.jpg"
+	thumbURL="thumbs/Image130.jpg"
+	linkURL="images/Image130.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image130.jpg">
+    <title><![CDATA[Image130]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image131.jpg"
+	thumbURL="thumbs/Image131.jpg"
+	linkURL="images/Image131.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image131.jpg">
+    <title><![CDATA[Image131]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image132.jpg"
+	thumbURL="thumbs/Image132.jpg"
+	linkURL="images/Image132.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image132.jpg">
+    <title><![CDATA[Image132]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image133.jpg"
+	thumbURL="thumbs/Image133.jpg"
+	linkURL="images/Image133.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image133.jpg">
+    <title><![CDATA[Image133]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image134.jpg"
+	thumbURL="thumbs/Image134.jpg"
+	linkURL="images/Image134.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image134.jpg">
+    <title><![CDATA[Image134]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image135.jpg"
+	thumbURL="thumbs/Image135.jpg"
+	linkURL="images/Image135.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image135.jpg">
+    <title><![CDATA[Image135]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image136.jpg"
+	thumbURL="thumbs/Image136.jpg"
+	linkURL="images/Image136.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image136.jpg">
+    <title><![CDATA[Image136]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image137.jpg"
+	thumbURL="thumbs/Image137.jpg"
+	linkURL="images/Image137.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@@kevin\@2024\CnJWedding\LR\Image137.jpg">
+    <title><![CDATA[Image137]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
